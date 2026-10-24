@@ -1,0 +1,9 @@
+{
+  "name": "skillbridge-ai-complete",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "netlify dev" },
+  "dependencies": { "openai": "^5.12.2" },
+  "devDependencies": { "netlify-cli": "^23.5.0" }
+}
